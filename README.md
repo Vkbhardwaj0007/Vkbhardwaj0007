@@ -76,11 +76,11 @@ const me = {
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Signal Flow
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vkbhardwaj0007/Vkbhardwaj0007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vkbhardwaj0007/Vkbhardwaj0007/main/circuit.svg" width="100%" alt="Animated embedded systems signal flow" />
 
 </div>
 
