@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250">
+  <defs>
+    <linearGradient id="wave" x1="0" x2="1"><stop offset="0" stop-color="#1b3a6b"/><stop offset="0.5" stop-color="#36BCF7"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#36BCF7"/><stop offset="1" stop-color="#7ee787"/></linearGradient>
+    <clipPath id="r"><rect width="900" height="250" rx="16"/></clipPath>
+    <clipPath id="card"><rect x="60" y="24" width="780" height="132" rx="12"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="900" height="250" fill="#0d1117"/>
+
+    <!-- quote card -->
+    <rect x="60" y="24" width="780" height="132" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="60" y="24" width="5" height="132" fill="url(#bar)" clip-path="url(#card)"/>
+    <text x="88" y="78" font-family="Georgia, serif" font-size="64" fill="#36BCF7" opacity="0.35">“</text>
+    <text x="130" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-style="italic" fill="#e6edf3">Code is only real when it moves something</text>
+    <text x="130" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-style="italic" fill="#e6edf3">in the physical world.</text>
+    <text x="130" y="134" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#36BCF7">— Vivek Kumar Bhardwaj</text>
+    <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#8b949e">
+      <text x="812" y="134" text-anchor="end">sense → compute → act</text>
+    </g>
+
+    <!-- status line -->
+    <g transform="translate(60,184)">
+      <circle cx="6" cy="0" r="4" fill="#7ee787" filter="url(#glow)"><animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
+      <text x="18" y="4" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">Thanks for stopping by · open to collaboration on IoT, automation &amp; vision</text>
+    </g>
+
+    <!-- animated wave footer -->
+    <g>
+      <path d="M-900,250 V215 C-750,195 -600,235 -450,220 C-300,205 -150,240 0,222 C150,205 300,235 450,218 C600,200 750,240 900,222 C1050,205 1200,235 1350,218 C1500,200 1650,240 1800,222 V250 z" fill="url(#wave)" opacity="0.9">
+        <animateTransform attributeName="transform" type="translate" from="0,0" to="900,0" dur="14s" repeatCount="indefinite"/>
+      </path>
+      <path d="M-900,250 V228 C-750,215 -600,245 -450,232 C-300,220 -150,246 0,234 C150,220 300,246 450,232 C600,218 750,246 900,234 C1050,220 1200,246 1350,232 C1500,218 1650,246 1800,234 V250 z" fill="url(#wave)" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" from="900,0" to="0,0" dur="9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+</svg>
