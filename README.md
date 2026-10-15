@@ -101,11 +101,21 @@ const me = {
 <div align="center">
 
 <a href="https://github.com/Vkbhardwaj0007/BTS-APP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vkbhardwaj0007&repo=BTS-APP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Project one" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vkbhardwaj0007&repo=BTS-APP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="BTS-APP" />
 </a>
-<a href="https://github.com/Vkbhardwaj0007/BTS_Website_Source">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vkbhardwaj0007&repo=BTS_Website_Source&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Project two" />
+<a href="https://github.com/Vkbhardwaj0007/RvmAiTech">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vkbhardwaj0007&repo=RvmAiTech&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="RvmAiTech" />
 </a>
+
+</div>
+
+---
+
+## 🔮 Future Projects
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vkbhardwaj0007/Vkbhardwaj0007/main/roadmap.svg" width="100%" alt="Roadmap: machine vision, process automation, home automation" />
 
 </div>
 
