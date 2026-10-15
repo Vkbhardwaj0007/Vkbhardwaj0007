@@ -1,78 +1,124 @@
 <div align="center">
+
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Developer+%7C+Learner+%7C+Builder;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vikas+Bhardwaj+%F0%9F%91%8B;Developer+%7C+Maker+%7C+Learner;Always+shipping+something+new" alt="Typing SVG" />
+
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%" />
+
 <!-- Profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=36BCF7" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=36BCF7&labelColor=0d1117" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Vkbhardwaj0007&style=for-the-badge&color=36BCF7" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Vkbhardwaj0007?style=for-the-badge&color=36BCF7&labelColor=0d1117" alt="Followers" />
+
 </div>
+
 ---
-🚀 About Me
+
+## 🚀 About Me
+
 ```javascript
 const me = {
-  name:      "YOUR_NAME",
+  name:      "Vikas Bhardwaj",
   location:  "India 🇮🇳",
-  role:      "Developer",
-  learning:  ["TypeScript", "System Design", "DevOps"],
-  building:  "Cool stuff, one commit at a time",
+  role:      "Developer & Maker",
+  learning:  ["AI", "IoT with ESP32", "App Development"],
+  building:  "BTS app, websites & hardware projects",
   funFact:   "I debug with console.log and I'm not ashamed",
 };
 ```
-🔭 Currently working on YOUR_PROJECT
-🌱 Learning YOUR_TECH
-💬 Ask me about YOUR_EXPERTISE
-⚡ Fun fact: YOUR_FUN_FACT
+
+- 🔭 Currently working on **BTS App & Website**
+- 🌱 Learning **AI & IoT (ESP32, Wokwi)**
+- 💬 Ask me about **web apps, mobile apps & embedded projects**
+- ⚡ Fun fact: **I keep an `oldcodebackup` repo — nothing I write is ever truly gone**
+
 ---
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
 <div align="center">
+
 <!-- Edit the list after i= to match your stack. Full icon list: https://skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind&perline=10" alt="Tech stack row 1" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arduino,firebase,git,github&perline=10" alt="Tech stack row 1" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,vscode,figma,linux,bash,vercel&perline=10" alt="Tech stack row 2" />
+<img src="https://skillicons.dev/icons?i=mongodb,flutter,androidstudio,cpp,tensorflow,vscode,figma,linux,bash,vercel&perline=10" alt="Tech stack row 2" />
+
 </div>
+
 ---
-📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Top languages" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vkbhardwaj0007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vkbhardwaj0007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Top languages" />
+
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vkbhardwaj0007&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak" />
+
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff" width="100%" alt="Activity graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vkbhardwaj0007&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff" width="100%" alt="Activity graph" />
+
 </div>
+
 ---
-🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vkbhardwaj0007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+
 </div>
+
 ---
-🐍 Contribution Snake
+
+## 🐍 Contribution Snake
+
 <div align="center">
-<!-- Generated by the GitHub Action in .github/workflows/snake.yml (see setup notes) -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/Vkbhardwaj0007/Vkbhardwaj0007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
+
 ---
-📌 Featured Projects
+
+## 📌 Featured Projects
+
 <div align="center">
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Project one" />
+
+<a href="https://github.com/Vkbhardwaj0007/BTS-APP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vkbhardwaj0007&repo=BTS-APP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Project one" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Project two" />
+<a href="https://github.com/Vkbhardwaj0007/BTS_Website_Source">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vkbhardwaj0007&repo=BTS_Website_Source&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Project two" />
 </a>
+
 </div>
+
 ---
-🤝 Connect With Me
+
+## 🤝 Connect With Me
+
 <div align="center">
+
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
 </div>
+
 <br/>
+
 <div align="center">
+
 <!-- Random dev quote, refreshes on each load -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
 </div>
