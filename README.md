@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vikas+Bhardwaj+%F0%9F%91%8B;Developer+%7C+Maker+%7C+Learner;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+Kumar+Bhardwaj+%F0%9F%91%8B;IoT+%7C+Embedded+%7C+Industrial+Automation;Sensors%2C+vision+and+code+that+run+real+machines" alt="Typing SVG" />
 
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%" />
@@ -18,18 +18,18 @@
 
 ```javascript
 const me = {
-  name:      "Vikas Bhardwaj",
+  name:      "Vivek Kumar Bhardwaj",
   location:  "India 🇮🇳",
-  role:      "Developer & Maker",
-  learning:  ["AI", "IoT with ESP32", "App Development"],
-  building:  "BTS app, websites & hardware projects",
-  funFact:   "I debug with console.log and I'm not ashamed",
+  role:      "IoT, Embedded & Industrial Automation Engineer",
+  learning:  ["Edge AI", "Machine Vision", "RTOS"],
+  building:  "Smart devices, process automation & vision systems",
+  funFact:   "Half my desk is jumper wires and I like it that way",
 };
 ```
 
-- 🔭 Currently working on **BTS App & Website**
-- 🌱 Learning **AI & IoT (ESP32, Wokwi)**
-- 💬 Ask me about **web apps, mobile apps & embedded projects**
+- 🔭 Currently working on **industrial & process automation with machine vision**
+- 🌱 Learning **Edge AI, computer vision & RTOS**
+- 💬 Ask me about **ESP32, PLCs, sensors, OpenCV, firmware & IoT apps**
 - ⚡ Fun fact: **I keep an `oldcodebackup` repo — nothing I write is ever truly gone**
 
 ---
@@ -39,9 +39,9 @@ const me = {
 <div align="center">
 
 <!-- Edit the list after i= to match your stack. Full icon list: https://skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arduino,firebase,git,github&perline=10" alt="Tech stack row 1" />
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,raspberrypi,opencv,linux,bash,git,github&perline=10" alt="Tech stack row 1" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,flutter,androidstudio,cpp,tensorflow,vscode,figma,linux,bash,vercel&perline=10" alt="Tech stack row 2" />
+<img src="https://skillicons.dev/icons?i=tensorflow,html,css,js,react,nodejs,firebase,mongodb,flutter,vscode&perline=10" alt="Tech stack row 2" />
 
 </div>
 
