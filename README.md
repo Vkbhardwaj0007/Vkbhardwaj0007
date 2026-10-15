@@ -6,7 +6,7 @@
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%" />
 
-<!-- Profile views + followers badges -->
+<!-- Followers badge -->
 <img src="https://img.shields.io/github/followers/Vkbhardwaj0007?style=for-the-badge&color=36BCF7&labelColor=0d1117" alt="Followers" />
 
 </div>
@@ -119,9 +119,6 @@ const me = {
 
 <div align="center">
 
-<!-- Random dev quote, refreshes on each load -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/Vkbhardwaj0007/Vkbhardwaj0007/main/footer.svg" width="100%" alt="Code is only real when it moves something in the physical world." />
 
 </div>
