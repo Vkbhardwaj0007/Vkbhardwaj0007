@@ -7,7 +7,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%" />
 
 <!-- Profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=Vkbhardwaj0007&style=for-the-badge&color=36BCF7" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Vkbhardwaj0007?style=for-the-badge&color=36BCF7&labelColor=0d1117" alt="Followers" />
 
 </div>
